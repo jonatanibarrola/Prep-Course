@@ -1,0 +1,113 @@
+[33mcommit ee6b17e423d6e2fd1238f7568371dd3953c5bb8e[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Mon Apr 18 12:03:32 2022 -0300
+
+    updates 2303
+
+[33mcommit 00a2dce1148762c85c0bd38e9c64b26691aa2faa[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Mon Apr 4 13:02:52 2022 -0300
+
+    Update README.md
+
+[33mcommit 88cc371a75f3666b13bbef2d68c32d339545b8bf[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Mon Apr 4 12:41:13 2022 -0300
+
+    refactor
+
+[33mcommit 0c7e7778a126807d9526f1de8967aff19f5f97c0[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Fri Jan 28 12:13:17 2022 -0300
+
+    CloudFront implementation
+
+[33mcommit a0e473902ec83c9e2efa5ffc7f55c49caa1d3d59[m
+Author: Antonio Tralice <atralice@gmail.com>
+Date:   Wed Jan 26 16:15:15 2022 -0300
+
+    Update README.md
+
+[33mcommit 88f11681ca7e56ad80e5cd4d339a04ee605fd98d[m
+Author: Jime227 <jamedina@live.com.ar>
+Date:   Tue Jan 11 17:57:24 2022 -0300
+
+    Agregue el glosario, lo ubique en la navbar
+
+[33mcommit bbbbf4a08105b7682220418d427968582e18a843[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Fri Jan 7 09:36:02 2022 -0300
+
+    assets migration
+
+[33mcommit 25e25e2866e6299f233b215e168592804c6d8de5[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Fri Jan 7 09:27:04 2022 -0300
+
+    assets migration
+
+[33mcommit 7b3d6632b1af20613ba57028f12e9879e08ff0e3[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Fri Jan 7 08:41:43 2022 -0300
+
+    case fixes
+
+[33mcommit 75bbcafc22c6ee14c543ad195f1485115377efc1[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Fri Jan 7 08:39:43 2022 -0300
+
+    case testing
+
+[33mcommit 8951cd4b235d2346001f1bddbf709cc4fc6e905f[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Fri Jan 7 07:42:52 2022 -0300
+
+    front matter removed - parsing data from jsons
+
+[33mcommit e8a53add03af7a6149f2b00cc8dc10af8ef5d5f0[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Thu Jan 6 15:02:36 2022 -0300
+
+    variables added on layouts
+
+[33mcommit 53d7c6927f9233e14c513eb13f85860b8cbf21f4[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Thu Dec 16 09:23:28 2021 -0300
+
+    feedback css class renamed
+
+[33mcommit 1657256b9149aeb514084984b208b640d080cf92[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Wed Dec 15 18:46:07 2021 -0300
+
+    H2 homework css selector
+
+[33mcommit 0167d6a0b1939af0d76ce2d3602ceccea7f9f6cb[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Mon Dec 13 21:55:49 2021 -0300
+
+    Update README.md
+
+[33mcommit 27af52221e5dcef741c869e7a2f8715316dc1a64[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Mon Dec 13 21:55:10 2021 -0300
+
+    Content fix
+
+[33mcommit 98af1014c6003d466764120c320f4349597f8404[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Mon Dec 13 21:21:51 2021 -0300
+
+    Fixes
+
+[33mcommit a5a36259c24f2d89321b3ed9f956679eda926a42[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Mon Dec 13 15:57:59 2021 -0300
+
+    lessons order fixed
+
+[33mcommit 9d3e9a4722ca3451495854b69f293b0f3c63a3a3[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Mon Dec 13 15:33:29 2021 -0300
+
+    initial commit
